@@ -94,7 +94,8 @@ int main() {
   else
     print('invalid');
 
-
+  print('exit');
   return 0;
 }
+
 
